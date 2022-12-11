@@ -1,2 +1,0 @@
-# buildroot
-learning buildroot
